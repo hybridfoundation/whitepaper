@@ -2,6 +2,9 @@
 Creating a dynamic and adaptable ecosystem
 Public & Private Chain
 
+## About
+Hybrid Blockchain Revolutionary project that merges features from both public and private blockchains.
+
 ## Social Media Links
 - [Facebook](https://web.facebook.com/HybridChainSG) - Platform for social interaction.
 - [Twitter](https://twitter.com/HybridchainSG) - Latest news and updates.
