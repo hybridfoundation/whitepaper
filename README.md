@@ -10,5 +10,5 @@ Public & Private Chain
 - [Reddit](https://www.reddit.com/user/HybridChain/) - Discussions and content related to HybridChain.
 - [Discord](https://discord.com/invite/hybridchainsg) - Communication platform for HybridChain community.
 
-## HybridChain Logo
-![HybridChain Logo](https://hybridchain.ai/images/screen.jpg)
+## HybridChain 
+![HybridChain](https://hybridchain.ai/images/screen.jpg)
